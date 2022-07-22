@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "shengchen.vscode-checkstyle",
+        "kevinkyang.auto-comment-blocks",
+        "ryanluker.vscode-coverage-gutters",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-gradle",
+        "SonarSource.sonarlint-vscode"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "[groovy]": {
+        "editor.defaultFormatter": "NicolasVuillamy.vscode-groovy-lint"
+    },
+    "[java]": {
+        "editor.defaultFormatter": "ilkka.google-java-format"
+    },
+    "coverage-gutters.coverageFileNames": [
+        "jacocoTestReport.xml"
+    ],
+    "coverage-gutters.coverageReportFileName": "",
+    "editor.formatOnSave": true,
+    "google-java-format.executable-path": "/usr/local/bin/google-java-format-1.15.0-linux-x86_64",
+    "java.checkstyle.configuration": "${workspaceFolder}/google_checks-10.3.1.xml",
+    "java.checkstyle.version": "10.3.1",
+    "java.configuration.updateBuildConfiguration": "automatic",
+}
