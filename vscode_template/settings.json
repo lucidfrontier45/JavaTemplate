@@ -14,5 +14,5 @@
     "java.checkstyle.configuration": "${workspaceFolder}/google_checks-10.3.1.xml",
     "java.checkstyle.version": "10.3.1",
     "java.configuration.updateBuildConfiguration": "automatic",
-    "java.settings.url": ".vscode/java_settings.prefs",
+    "java.settings.url": ".vscode/java_settings.prefs"
 }
