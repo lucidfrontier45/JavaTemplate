@@ -1,2 +1,2 @@
-@org.springframework.lang.NonNullApi
+@org.eclipse.jdt.annotation.NonNullByDefault
 package com.example;

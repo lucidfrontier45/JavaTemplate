@@ -8,9 +8,8 @@
 
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
-    id "application"
-    id "jacoco"
-
+    id 'application'
+    id 'jacoco'
 }
 
 sourceCompatibility = 17
@@ -23,7 +22,7 @@ repositories {
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
-    implementation 'org.springframework:spring-core:5.3.21'
+    implementation 'org.eclipse.jdt:org.eclipse.jdt.annotation:2.2.700'
 }
 
 application {
@@ -41,7 +40,7 @@ test {
 }
 
 jacoco {
-    toolVersion = "0.8.7"
+    toolVersion = '0.8.7'
 }
 
 jacocoTestReport {
